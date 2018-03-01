@@ -1,0 +1,6 @@
+{
+	"labels": ["metal", "rock", "jazz", "electronic", "experimental", "trance", "psy", "dub", "progressive metal", "ambient", "techno", "xp-classical-post-hardcore"],
+	"datasets": [{
+		"data": ["20", "10", "14", "22", "21", "50", "40", "21", "42", "42", "42", "12"]
+		}]
+}
