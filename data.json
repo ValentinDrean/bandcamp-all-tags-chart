@@ -1,6 +1,16 @@
 {
-	"labels": ["metal", "rock", "jazz", "electronic", "experimental", "trance", "psy", "dub", "progressive metal", "ambient", "techno", "xp-classical-post-hardcore"],
-	"datasets": [{
-		"data": ["20", "10", "14", "22", "21", "75", "40", "21", "42", "42", "42", "12"]
-		}]
-	}
+  "user": "ChopChopCat"
+	{
+    "labels": ["metal", "rock", "jazz", "electronic", "experimental", "trance", "psy", "dub", "progressive metal", "ambient", "techno", "xp-classical-post-hardcore"],
+    "datasets": [{
+      "data": ["20", "10", "14", "22", "21", "75", "40", "21", "42", "42", "42", "12"]
+    }]
+  },
+  "user": "GlitchGuppy"
+	{
+    "labels": ["metal", "rock", "jazz", "electronic", "experimental", "trance", "psy", "dub", "progressive metal", "ambient", "techno", "xp-classical-post-hardcore"],
+    "datasets": [{
+      "data": ["20", "10", "14", "22", "21", "75", "40", "21", "42", "42", "42", "12"]
+    }]
+  }
+}

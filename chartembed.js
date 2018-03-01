@@ -56,7 +56,7 @@ function GetChartData() {
   // Ajax data recover from service
   var getData = $.ajax({
     type: 'GET',
-    url: 'data.json', // http://jack.tf:8123/data.json
+    url: 'data0.json', // http://jack.tf:8123/data.json
     async: true,
     timeout: 1000,
     contentType: 'application/json; charset=utf-8',
